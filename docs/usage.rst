@@ -1,7 +1,6 @@
 ========
 Usage
 ========
-
-To use this template, simply update it::
-
-	import read-the-docs-template
+charprint: charprint(string, cursorused=True_or_false, end=end)
+charinput: see above.
+blanket: blanket()
