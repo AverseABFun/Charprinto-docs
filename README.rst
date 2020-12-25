@@ -30,8 +30,8 @@ Install Charprinto by running:
 Contribute
 ----------
 
-- Issue Tracker: github.com/charprinto/charprinto/issues
-- Source Code: github.com/charprinto/sourcecode/
+- Issue Tracker: github.com/AverseABFun/charprinto/charprinto/issues
+- Source Code: github.com/AverseABFun/charprinto/sourcecode/
 
 Support
 -------
