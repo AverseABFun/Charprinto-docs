@@ -1,41 +1,45 @@
-Template
+Charprinto!
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Charprinto will solve your problem of printing, character by character, in python.
 
 Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+    import charprinto
+    yes = charprinto.charinput("I love charprinto! Do you?")
+    charprinto.charprint("Yay!")
+    blanket()
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Charprint
+- Charinput
+- Blanket
 
 Installation
 ------------
 
-Install $project by running:
+Install Charprinto by running:
 
-    install project
+    poetry init
+    poetry add charprinto
+    poetry lock
+    poetry install
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: github.com/charprinto/charprinto/issues
+- Source Code: github.com/charprinto/sourcecode/
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, please let me know.
+Contact me at: averse.abfun@gmail.com
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the MIT license.
